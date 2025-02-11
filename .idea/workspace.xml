@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84eaeaeb-3381-4286-bdfc-432f5cc539b3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MaliciousPackageCheckinHandlerState">
+    <option name="packageCheck" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mum16btXxpoVakDQh54dfh0Gp5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Smart Tomcat.Unnamed.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/windows/Downloads/ResolveX",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\windows\Downloads\ResolveX\UrbanReport11-main\complaintManagementSystem\src\main\webapp\Resources" />
+      <recent name="C:\Users\windows\Downloads\ResolveX\UrbanReport11-main\complaintManagementSystem\src\main\webapp\Resources\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" nameIsGenerated="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="C:\Users\windows\.SmartTomcat\ResolveX\complaintManagementSystem" />
+      <option name="contextPath" value="/complaintManagementSystem" />
+      <option name="docBase" value="$PROJECT_DIR$/UrbanReport11-main/complaintManagementSystem/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.95" />
+          <option name="path" value="$PROJECT_DIR$/../../../../Program Files/Apache Software Foundation/Tomcat 9.0" />
+          <option name="version" value="9.0.95.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="complaintManagementSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84eaeaeb-3381-4286-bdfc-432f5cc539b3" name="Changes" comment="" />
+      <created>1727934616930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727934616930</updated>
+      <workItem from="1727934618332" duration="590000" />
+      <workItem from="1728020948692" duration="37000" />
+      <workItem from="1728117615046" duration="157000" />
+      <workItem from="1728246462761" duration="4273000" />
+      <workItem from="1728252106561" duration="3547000" />
+      <workItem from="1728285387159" duration="23000" />
+      <workItem from="1729225472343" duration="443000" />
+      <workItem from="1729565701735" duration="14000" />
+      <workItem from="1729565734649" duration="1477000" />
+      <workItem from="1729670686737" duration="1010000" />
+      <workItem from="1729671868752" duration="239000" />
+      <workItem from="1729788177925" duration="176000" />
+      <workItem from="1730197789076" duration="1365000" />
+      <workItem from="1730309812838" duration="74000" />
+      <workItem from="1730643412394" duration="1091000" />
+      <workItem from="1730698118907" duration="2672000" />
+      <workItem from="1730741569951" duration="398000" />
+      <workItem from="1731009668533" duration="612000" />
+      <workItem from="1731074684717" duration="2359000" />
+      <workItem from="1731085120350" duration="1930000" />
+      <workItem from="1731095382148" duration="672000" />
+      <workItem from="1731136162497" duration="2322000" />
+      <workItem from="1735020810949" duration="438000" />
+      <workItem from="1735021481751" duration="285000" />
+      <workItem from="1735281927104" duration="109000" />
+      <workItem from="1737449534511" duration="2000" />
+      <workItem from="1738152620034" duration="1599000" />
+      <workItem from="1738168820848" duration="1935000" />
+      <workItem from="1739213040049" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
